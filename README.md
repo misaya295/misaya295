@@ -42,9 +42,3 @@
   
 <br/>
 
----
-
- ### ⭐️ From [Bgstatic](https://github.com/misaya295) ### 
- 
----
-
