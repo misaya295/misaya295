@@ -3,7 +3,7 @@
 
 ## I'm a data platform developer
 
-- 👨‍💻 I’m currently working on data platform development technologies like java, scala and any db.
+- 👨‍💻 I’m currently working on data platform development technologies like java, scala, python and any db.
 - 📚 I’m currently learning everything about Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games and study algorithm.
